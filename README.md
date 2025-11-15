@@ -384,7 +384,7 @@ Ce projet est distribué sous la licence **MIT**.
 ```
 MIT License
 
-Copyright (c) 2024 Djouko
+Copyright (c) 2025 Djouko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -488,7 +488,7 @@ Remerciements spéciaux à :
 
 ## 📈 Changelog
 
-### Version 1.0.0 (2024)
+### Version 1.0.0 (2025)
 - ✅ Version initiale du template
 - ✅ 15+ pages HTML
 - ✅ Design responsive

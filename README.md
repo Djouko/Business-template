@@ -8,6 +8,11 @@
 
 Un template HTML/CSS/JavaScript moderne, complet et responsive pour créer un site web corporate, business ou agence. **Kekottech** est conçu pour les professionnels qui recherchent une base solide et élégante pour leur présence en ligne.
 
+![html-t](https://github.com/user-attachments/assets/1681156e-6737-4ea9-948c-192ba663a901)
+
+![html-t1](https://github.com/user-attachments/assets/b0570f36-7c54-486c-a596-2f3f06e6a6cc)
+
+
 ## 🌟 Caractéristiques
 
 ### Design & UX
@@ -497,6 +502,6 @@ Remerciements spéciaux à :
 
 **Créé avec ❤️ par [Djouko](https://github.com/Djouko)**
 
-**Dernière mise à jour** : Novembre 2024  
+**Dernière mise à jour** : Novembre 2025  
 **Licence** : MIT  
 **Repository** : [Business-template](https://github.com/Djouko/Business-template)
